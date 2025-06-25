@@ -192,3 +192,16 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Project related gitignore
+other_old_scripts/*
+*.sh
+*.out
+fixed_gamma_poisson_results/*
+sim-results-beta/*
+sim-results-low-P-50-T/*
+sim-results-low-P/*
+sim-results/*
+sim-results*/*
+sim-results-no-outside-intent/*
+*.tok
